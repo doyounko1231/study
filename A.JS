@@ -1,1 +1,0 @@
-console.log('목요일');
